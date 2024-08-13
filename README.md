@@ -11,9 +11,11 @@ To provide a methodological approach to analyze the ongoing trends and predictin
 After studying the data, we checked how well three models could predict outcomes by looking at Mean Square Error (MSE). This MSE tells us how close the predictions are to the real outcomes, where lower values mean the models are more accurate.
 For the linear regression model, we discovered the MSE to be 7464564098.525732. This means that, typically, the difference between the predicted and actual values squared is quite large for this model.
 <br>
+<br>
 After that, we looked at the random forest model, and its MSE was 2938398750.6968093. This number is smaller than the MSE of the linear regression model, which shows that the random forest model did a better job at predicting accurately.
 Finally, we studied the LGBM regressor model, and its MSE was the lowest among the three models, at 2821495076.7183814.
 This means that the LGBM regressor model did better than both the linear regression and random forest models at reducing prediction errors.
+<br>
 <br>
 We also found the R square value for each model, and the values of the R square are given below:-
 <br>
