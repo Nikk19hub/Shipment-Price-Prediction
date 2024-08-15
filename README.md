@@ -16,4 +16,5 @@ b) Random Forest Regressor.
 <br>
 c) LGBM Regressor.
 <br>
+<br>
 Based on the data and requirements of the supply chain domain we developed parameters for predicting the freight cost for each shipment. To get more accurate results we have tried these three algorithms and out if these LGBM Regressor has given us the best results.
